@@ -1,2 +1,4 @@
 création du premier fichier
 verificaiton du push
+verification du push des modifications
+
